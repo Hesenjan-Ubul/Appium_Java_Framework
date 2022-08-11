@@ -17,7 +17,7 @@ public class TestBaseChrome {
 
         capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Pixel 4a API 31");
 //            cap.setCapability(MobileCapabilityType.DEVICE_NAME, "Real Android Phone");
-        capabilities.setCapability(MobileCapabilityType.BROWSER_NAME,"Chrome");
+        capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Chrome");
 
         capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");//new step
 
