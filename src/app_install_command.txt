@@ -1,0 +1,5 @@
+C:\Users\uytur\AppData\Local\Android\Sdk\platform-tools>adb install D:\SDET\MyFirstAppiumProject\src\General-Store.apk
+
+
+# command to terminate all server ports running
+taskkill /f /im node.exe
