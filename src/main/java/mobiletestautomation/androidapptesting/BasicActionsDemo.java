@@ -6,14 +6,14 @@ import io.appium.java_client.android.AndroidElement;
 import java.net.MalformedURLException;
 import java.util.concurrent.TimeUnit;
 
-public class BasicActionsDemo extends TestBase{
+public class BasicActionsDemo extends TestBase {
 
     public static void main(String[] args) throws MalformedURLException {
 
         // TODO Auto-generated method stub
 
 
-        AndroidDriver<AndroidElement> driver=capabilities("Pixel 4a API 31");
+        AndroidDriver<AndroidElement> driver = capabilities("Pixel 4a API 31");
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
         //xpath id className, androidUIAutomator
