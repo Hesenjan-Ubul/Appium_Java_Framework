@@ -1,4 +1,3 @@
-#Appium Java Framework
 
 **Appium Java Framework**
 
@@ -31,7 +30,7 @@ Welcome to my personal learning project! This repository houses a Java-based aut
 
 2. **Clone Repository:** Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/yourusername/appium-java-framework.git
+   git clone https://github.com/Hesenjan-Ubul/Appium_Java_Framework.git
    ```
 
 3. **Install Dependencies:** Navigate to the project directory and install dependencies using Maven:
